@@ -1,2 +1,2 @@
 rootProject.name = "java-async-server"
-include("app")
+include("server-client")
